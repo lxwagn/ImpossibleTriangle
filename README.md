@@ -1,4 +1,6 @@
-# Impossible Triangle 
+![Travis CI Status](https://travis-ci.org/lxwagn/impossible-triangle.svg?branch=master)
+
+# Impossible Triangle
 
 Impossible Triangle is a fun portfolio project written in C by 
 Lucas Wagner (lxwagn at gmail.com) based on a real-world toy,
