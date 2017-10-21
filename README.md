@@ -75,3 +75,23 @@ as coordinates for those tries are pseudo-random. Simply run the program
 again or, if still unsuccessful, change the board size to a smaller size 
 and recompile.
 
+## Quick Start
+
+#### Prerequisites
+To compile the executable and tests, you need CUnit. For example, on Ubuntu:
+
+    sudo apt install libcunit1 libcunit1-dev
+
+#### Building (Executable + Tests)
+
+    make
+
+#### Building (Executable Only)
+To build the executable without tests:
+
+    cd src && make && cd ..
+
+#### Cleaning
+To remove the executables and tests (if applicable):
+
+    make clean
