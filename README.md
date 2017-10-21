@@ -84,12 +84,12 @@ To compile the executable and tests, you need CUnit. For example, on Ubuntu:
 
 #### Building (Executable + Tests)
 
-    make
+    make && make test
 
 #### Building (Executable Only)
 To build the executable without tests:
 
-    cd src && make && cd ..
+    make 
 
 #### Cleaning
 To remove the executables and tests (if applicable):
