@@ -1,4 +1,4 @@
-![Travis CI Status](https://travis-ci.org/lxwagn/impossible-triangle.svg?branch=master)
+![Travis CI Status](https://travis-ci.org/lxwagn/ImpossibleTriangle.svg?branch=master)
 
 # Impossible Triangle
 
